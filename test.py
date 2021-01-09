@@ -4,5 +4,8 @@
 # git config --global user.name "Your Name"
 import numpy as np 
 
-
+#sera que esta aqui?
+#nova alteracao para nova_branch
 x = np.zeros(2,3)
+
+#nao foi?
